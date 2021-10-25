@@ -12,7 +12,7 @@ It contains 5 projects
 ## pytorch_cifar
 - This project use a ResNet-50 to implement a CIFAR classification that achieves a 94% accuracy.
 - Usage: Python 3.6+
-         PyTorch 1.0+
+  PyTorch 1.0+
          Run cifar10.py
 
 ## chat_network
