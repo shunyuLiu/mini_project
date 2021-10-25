@@ -18,9 +18,10 @@ It contains 5 projects
 
 ## chat_network
 - This project develop a networked version of the chat system through C
-- Usage: Run "makefile" first - "make"
-         Run server - "./server authfile 2345"
-         Run client - "./client F authfile 2345"
+- Usage: 
+  - Run "makefile" first - "make"
+  - Run server - "./server authfile 2345"
+  - Run client - "./client F authfile 2345"
          
 ## building_manager_system
 - This project developa a simple simulation of a building management system.
